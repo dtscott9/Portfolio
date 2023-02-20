@@ -11,6 +11,16 @@
     font-family: var(--font)
 }
 
+a {
+    color: black;
+    transition: 1s;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
 body{
     margin: 0 auto
 }
