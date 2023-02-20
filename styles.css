@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 :root {
     --main_color: lightblue;
     --shadow: 5px 5px 5px rgb(72, 72, 72);
-    --font: Georgia, 'Times New Roman', Times, serif;
+    --font: Roboto;
 }
 
 * {
